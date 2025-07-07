@@ -1237,7 +1237,7 @@
                     VerticalAlignment="Center"
                     FontSize="11"
                     Foreground="#E5E7EB"
-                    Text="easyADReport  |  Version: v0.5.3  |  Last Update: 02.07.2025" />
+                    Text="easyADReport  |  Version: v0.5.4  |  Last Update: 07.07.2025" />
 
                 <StackPanel
                     Grid.Column="1"
