@@ -17071,7 +17071,7 @@ Function Start-ADReportGUI {
 }
 
 # --- Skriptstart ---
-Start-ADReportGU
+Start-ADReportGUI
 # SIG # Begin signature block
 # MIIbywYJKoZIhvcNAQcCoIIbvDCCG7gCAQExDzANBglghkgBZQMEAgEFADB5Bgor
 # BgEEAYI3AgEEoGswaTA0BgorBgEEAYI3AgEeMCYCAwEAAAQQH8w7YFlLCE63JNLG
